@@ -1,3 +1,5 @@
+_mobile dev (multiplatform, android native) / [@sberbank](https://t.me/sberbank) / moscow / 22.02.02_
+
 **glad to see you here**
 
 hi, i'm [Alexandr Chekunkov](https://t.me/chekunkov_a_v_work), 23 years old programmer from Moskow, Russia. my dream is to create software that will help people do something.
@@ -9,15 +11,16 @@ you can see my CV here - [eng](https://github.com/coder-chekunkov/coder-chekunko
 
 **core skills**
 
-- kotlin, java
+- kotlin
 - android sdk
 - jetpack, dagger 2, retrofit 2, room
+- compose multiplatform
 - kotlin coroutines, kotlin flows
+- ktor, koin
 - mvi, mvvm, mvp
 - clean architecture, solid, kiss, dry, yagni
 - junit, mockk, truth
 - network technologies
-- jira, bitbucket, confluence
 - google services, firebase, sqlite, git
 
 **contact me**
