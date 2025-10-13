@@ -11,17 +11,22 @@ you can see my CV here - [eng](https://github.com/coder-chekunkov/coder-chekunko
 
 **core skills**
 
-- kotlin
+- kotlin / kotlin multiplatform / java
+- compose multiplatform / jetpack compose / view
+- kotlin coroutines / kotlin flows
+- koin / hilt / dagger 2
+- ktor / retrofit 2 / okHttp
+- decompose / navigation component
+- kotlinx serialization / multiplatform settings
+- sql / data store / room
+- coil / glide / picasso / lottie
 - android sdk
-- jetpack, dagger 2, retrofit 2, room
-- compose multiplatform
-- kotlin coroutines, kotlin flows
-- ktor, koin
-- mvi, mvvm, mvp
-- clean architecture, solid, kiss, dry, yagni
-- junit, mockk, truth
+- jetpack android
+- mvi / mvvm / mvp
+- clean architecture / solid / kiss / dry / yagni
+- junit / mockk / truth
 - network technologies
-- google services, firebase, sqlite, git
+- google services / firebase / sqlite / git
 
 **contact me**
 
