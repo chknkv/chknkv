@@ -7,7 +7,7 @@ i am always ready to develop and improve my skills in what i like. i take great 
 
 i graduated from [RTU MIREA](https://www.mirea.ru/), worked in large russian companies, learned a lot from fellow thinkers, senior colleagues and mentors.
 
-you can see my CV here - [en](https://github.com/chknkv/chknkv/blob/main/CV%20-%20Android%20Developer%20-%20Chekunkov%20Alexandr.pdf) & [ru](https://github.com/chknkv/chknkv/blob/main/CV%20-%20Android%20Разработчик%20-%20Чекунков%20Александр.pdf)
+you can see my CV here - [en](https://github.com/chknkv/chknkv/blob/main/CV%20-%20Android%20Developer%20-%20Chekunkov%20Alexandr.md) & [ru](https://github.com/chknkv/chknkv/blob/main/CV%20-%20Android%20Разработчик%20-%20Чекунков%20Александр.md)
 
 **core skills**
 
