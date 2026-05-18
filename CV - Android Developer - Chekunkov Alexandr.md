@@ -4,7 +4,7 @@
 <table class="cv-header" style="border-collapse:collapse;">
 <tr>
 <td width="170" valign="top" style="border:none !important; padding-right:24px;">
-<img src="file:///Users/chekunkov.a.v/Downloads/cv/photo.jpg" width="170"/>
+<img src="https://github.com/chknkv/chknkv/blob/main/photo.jpg" width="170"/>
 </td>
 <td valign="top" style="border:none !important;">
 <span style="font-size:1.4em; font-weight:bold;">Senior Android Developer</span><br/><br/>
@@ -37,7 +37,7 @@ Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Archi
 ### Work Experience
 
 #### Android Developer | Sber
-**June 2023 — Present** · Moscow · Full-time · Financial Sector
+**June 2023 — Present** · Moscow · Full-time
 
 **Stack:** Kotlin, Java, Jetpack Compose, Custom View, Coroutines, Flow, RxJava, Dagger 2, Koin, Retrofit 2, OkHttp, Room, MVI, MVVM, Clean Architecture, Gradle, CI/CD
 
@@ -79,7 +79,7 @@ Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Archi
 ---
 
 #### Laboratory Manager «KB-4» | RTU MIREA
-**February 2022 — November 2022** · Moscow · Part-time
+**February 2022 — November 2022** · Moscow · Full-time
 
 **Stack:** Kotlin, Android SDK, Python, C, C#, C++, Astra Linux
 
