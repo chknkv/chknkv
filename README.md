@@ -2,7 +2,7 @@ _mobile dev (multiplatform, android native) / [@sberbank](https://t.me/sber
 
 **glad to see you here**
 
-hi, i'm [Alexandr Chekunkov](https://t.me/chekunkov_a_v_work), 24 years old programmer from Moskow, Russia. my dream is to create software that will help people do something. i take great care in the experience, architecture, and code quality of the things i build.
+hi, i'm [Alexandr Chekunkov](https://t.me/chekunkov_a_v_work), 24 years old programmer. my dream is to create software that will help people do something. i take great care in the experience, architecture, and code quality of the things i build.
 
 5+ years of commercial experience in enterprise and fintech products. delivered feature and architectural modules in apps with a huge audience. deep expertise in Kotlin, Jetpack Compose, MVI/MVVM, and multi-module Clean Architecture projects. active Android community contributor.
 
