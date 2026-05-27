@@ -2,31 +2,11 @@ _mobile dev (multiplatform, android native) / [@sberbank](https://t.me/sber
 
 **glad to see you here**
 
-hi, i'm [Alexandr Chekunkov](https://t.me/chekunkov_a_v_work), 24 years old programmer from Moskow, Russia. my dream is to create software that will help people do something.
-i am always ready to develop and improve my skills in what i like. i take great care in the experience, architecture, and code quality of the things i build.
+hi, i'm [Alexandr Chekunkov](https://t.me/chekunkov_a_v_work), 24 years old programmer from Moskow, Russia. my dream is to create software that will help people do something. i take great care in the experience, architecture, and code quality of the things i build.
 
-i graduated from [RTU MIREA](https://www.mirea.ru/), worked in large russian companies, learned a lot from fellow thinkers, senior colleagues and mentors.
+5+ years of commercial experience in enterprise and fintech products. delivered feature and architectural modules in apps with a huge audience. deep expertise in Kotlin, Jetpack Compose, MVI/MVVM, and multi-module Clean Architecture projects. active Android community contributor.
 
-you can see my CV here - [en](https://github.com/chknkv/chknkv/blob/main/CV%20-%20Android%20Developer%20-%20Chekunkov%20Alexandr.md) & [ru](https://github.com/chknkv/chknkv/blob/main/CV%20-%20Android%20Разработчик%20-%20Чекунков%20Александр.md)
-
-**core skills**
-
-- kotlin / kotlin multiplatform / java
-- compose multiplatform / jetpack compose / view
-- kotlin coroutines / kotlin flows
-- koin / hilt / dagger 2
-- ktor / retrofit 2 / okHttp
-- decompose / navigation component
-- kotlinx serialization / multiplatform settings
-- sql / data store / room
-- coil / glide / picasso / lottie
-- android sdk
-- jetpack android
-- mvi / mvvm / mvp
-- clean architecture / solid / kiss / dry / yagni
-- junit / mockk / truth
-- network technologies
-- google services / firebase / sqlite / git
+my CV here - [en](https://github.com/chknkv/chknkv/blob/main/CV%20-%20Android%20Developer%20-%20Chekunkov%20Alexandr.md) & [ru](https://github.com/chknkv/chknkv/blob/main/CV%20-%20Android%20Разработчик%20-%20Чекунков%20Александр.md)
 
 **contact me**
 
