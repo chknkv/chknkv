@@ -18,12 +18,11 @@ Moscow, Russia
 </table>
 
 Senior Android Developer with **5+ years** of commercial experience in enterprise and fintech products.
-Delivered feature and architectural modules in apps with an audience of **90+ million users** (**SberBank Online**, **SberInvestments**).
-Deep expertise in Kotlin, Jetpack Compose, MVI/MVVM, and multi-module Clean Architecture projects.
+Delivered feature and architectural modules in apps with a huge audience. Deep expertise in Kotlin, Jetpack Compose, MVI/MVVM, and multi-module Clean Architecture projects.
 Active Android community contributor: 8 articles on Habr (5,000+ views each), 15+ meetups, courses for 500+ developers.
 
 **Technology Stack:**
-Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Architecture Components · Coroutines · Flow · RxJava · Dagger 2 · Koin · Retrofit 2 · OkHttp · WebSocket · Room · SQLite · DataStore · Navigation Component · Paging 3 · WorkManager · Material Design 3 · MVI · MVVM · Clean Architecture · SOLID · UDF · Gradle · CI/CD · Git · Firebase · Google Play Store · Agile · Scrum · Kotlin Multiplatform (KMP) · Compose Multiplatform (CMP) · Ktor · SQLDelight · Kotlinx Serialization
+Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Architecture Components · Coroutines · Flow · RxJava · Dagger 2 · Koin · Retrofit 2 · OkHttp · WebSocket · Room · SQLite · DataStore · Navigation Component · Paging 3 · WorkManager · Material Design 3 · MVI · MVVM · TEA · Clean Architecture · SOLID · UDF · Gradle · CI/CD · Git · Firebase · Google Play Store · Agile · Scrum · Kotlin Multiplatform (KMP) · Compose Multiplatform (CMP) · Ktor · SQLDelight · Kotlinx Serialization
 
 **Portfolio & Public Activity:**
 
@@ -36,8 +35,24 @@ Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Archi
 
 ### Work Experience
 
+#### Android Developer | Okko
+**June 2026 — Present** · Moscow · Full-time
+
+** Stack:** Kotlin, Jetpack Compose, Custom View, Coroutines, Flow, Dagger 2, Koin, Toothpick, Retrofit 2, OkHttp, Room, DataStore, MVI, TEA, Clean Architecture, Gradle, CI/CD
+
+**Key Achievements:**
+- 
+- 
+
+**Responsibilities:**
+- Development of core-module design system (UI-kit) for the Okko app (10+ million users) on Android and Android TV.
+- Regular Code Review.
+- Writing and maintaining technical documentation.
+
+---
+
 #### Android Developer | Sber
-**June 2023 — Present** · Moscow · Full-time
+**June 2023 — June 2026** · Moscow · Full-time
 
 **Stack:** Kotlin, Java, Jetpack Compose, Custom View, Coroutines, Flow, RxJava, Dagger 2, Koin, Retrofit 2, OkHttp, Room, MVI, MVVM, Clean Architecture, Gradle, CI/CD
 

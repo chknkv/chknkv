@@ -18,12 +18,11 @@ GitHub: <a href="https://github.com/chknkv">github.com/chknkv</a><br/>
 </table>
 
 Senior Android-разработчик с **5+ годами** коммерческого опыта в enterprise и fintech-продуктах.
-Разрабатывал feature- и архитектурные модули в приложениях с аудиторией **90+ млн пользователей** (**СберБанк Онлайн**, **СберИнвестиции**).
-Глубокая экспертиза в Kotlin, Jetpack Compose, MVI/MVVM, многомодульных Clean Architecture проектах.
+Разрабатывал feature- и архитектурные модули в приложениях с огромной аудиторией. Глубокая экспертиза в Kotlin, Jetpack Compose, MVI/MVVM, многомодульных Clean Architecture проектах.
 Активный участник Android-сообщества: 8 статей на Habr (5 000+ просмотров каждая), 15+ митапов, курсы для 500+ разработчиков.
 
 **Технологийский стек:**
-Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Architecture Components · Coroutines · Flow · RxJava · Dagger 2 · Koin · Retrofit 2 · OkHttp · WebSocket · Room · SQLite · DataStore · Navigation Component · Paging 3 · WorkManager · Material Design 3 · MVI · MVVM · Clean Architecture · SOLID · UDF · Gradle · CI/CD · Git · Firebase · Google Play Store · Agile · Scrum · Kotlin Multiplatform (KMP) · Compose Multiplatform (CMP) · Ktor · SQLDelight · Kotlinx Serialization
+Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Architecture Components · Coroutines · Flow · RxJava · Dagger 2 · Koin · Retrofit 2 · OkHttp · WebSocket · Room · SQLite · DataStore · Navigation Component · Paging 3 · WorkManager · Material Design 3 · MVI · MVVM · TEA · Clean Architecture · SOLID · UDF · Gradle · CI/CD · Git · Firebase · Google Play Store · Agile · Scrum · Kotlin Multiplatform (KMP) · Compose Multiplatform (CMP) · Ktor · SQLDelight · Kotlinx Serialization
 
 **Портфолио и публичная активность:**
 
@@ -36,9 +35,26 @@ Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Archi
 
 ### Опыт работы
 
+#### Android-разработчик | Okko
+
+**Июнь 2026 — настоящее время** · Москва · Полная занятость
+
+**Стек:** Kotlin, Jetpack Compose, Custom View, Coroutines, Flow, Dagger 2, Koin, Toothpick, Retrofit 2, OkHttp, Room, DataStore, MVI, TEA, Clean Architecture, Gradle, CI/CD
+
+**Ключевые достижения:**
+- 
+- 
+
+**Обязанности:**
+- Разработка core-модулей дизайн системы (UI-kit) для приложения Okko (10+ млн пользователей) на Android и Android TV.
+- Регулярное проведение Code Review.
+- Написание и поддержка технической документации.
+
+---
+
 #### Android-разработчик | Сбер
 
-**Июнь 2023 — настоящее время** · Москва · Полная занятость
+**Июнь 2023 — Июнь 2026** · Москва · Полная занятость
 
 **Стек:** Kotlin, Java, Jetpack Compose, Custom View, Coroutines, Flow, RxJava, Dagger 2, Koin, Retrofit 2, OkHttp, Room, MVI, MVVM, Clean Architecture, Gradle, CI/CD
 
