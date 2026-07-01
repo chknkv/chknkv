@@ -38,16 +38,13 @@ Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Archi
 #### Android Developer | Okko
 **June 2026 — Present** · Moscow · Full-time
 
-** Stack:** Kotlin, Jetpack Compose, Custom View, Coroutines, Flow, Dagger 2, Koin, Toothpick, Retrofit 2, OkHttp, Room, DataStore, MVI, TEA, Clean Architecture, Gradle, CI/CD
-
-**Key Achievements:**
-- 
-- 
+**Stack:** Kotlin, Jetpack Compose, Custom View, Coroutines, Flow, Dagger 2, Koin, Toothpick, Retrofit 2, OkHttp, Room, DataStore, MVI, TEA, Clean Architecture, Gradle, CI/CD
 
 **Responsibilities:**
-- Development of core-module design system (UI-kit) for the Okko app (10+ million users) on Android and Android TV.
-- Regular Code Review.
-- Writing and maintaining technical documentation.
+- Developed and maintained core design-system (UI-kit) modules for Android and Android TV.
+- Analyzed and optimized the performance of UI-kit components.
+- Conducted regular code reviews.
+- Authored and maintained technical documentation.
 
 ---
 
@@ -90,24 +87,6 @@ Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Archi
 - Wrote technical documentation and onboarding materials for new team members.
 - Collaborated with analysts, backend developers, designers, and QA engineers.
 - Participated in and facilitated Scrum ceremonies (backlog grooming, sprint planning, retrospectives).
-
----
-
-#### Laboratory Manager «KB-4» | RTU MIREA
-**February 2022 — November 2022** · Moscow · Full-time
-
-**Stack:** Kotlin, Android SDK, Python, C, C#, C++, Astra Linux
-
-**Key Achievements:**
-- Developed an Android app in Kotlin enabling faculty to respond quickly to student requests.
-- Optimized department IT support processes, reducing average response time by **25%**.
-- Migrated all department equipment to Astra Linux.
-
-**Responsibilities:**
-- Android application development for department needs.
-- Hardware and software support for department equipment and teaching staff.
-- Maintenance and improvement of student projects in Kotlin, C, C#, C++, Python.
-- Handling and resolving technical requests from students.
 
 ---
 
