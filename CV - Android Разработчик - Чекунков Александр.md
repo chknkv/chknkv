@@ -41,9 +41,16 @@ Kotlin · Java · Jetpack Compose · Custom View · Android SDK · Android Archi
 
 **Стек:** Kotlin, Jetpack Compose, Custom View, Coroutines, Flow, Dagger 2, Koin, Toothpick, Retrofit 2, OkHttp, Room, DataStore, MVI, TEA, Clean Architecture, Gradle, CI/CD
 
+**Ключевые достижения:**
+- Разработал 25 ключевых компонентов дизайн-системы (Compose и Custom View) для использования всеми продуктовыми командами проекта.
+- Внедрил практику UI-тестирования компонентов дизайн-системы, заложив основу для снижения регрессионных дефектов.
+- Реализовал новую UI-тему проекта: систему design tokens и адаптацию компонентов, обеспечив масштабируемость визуального стиля.
+
 **Обязанности:**
 - Разработка и развитие core-модулей дизайн-системы (UI-kit) для Android и Android TV.
 - Анализ и оптимизация производительности компонентов UI-kit.
+- Дежурство на проекте - мониторинг стабильности приложения через Firebase Crashlytics и Performance Monitoring.
+- Выпуск релизов приложения в Google Play и App Store. Оперативное устранение продакшен-дефектов, включая хотфиксы.
 - Регулярное проведение Code Review.
 - Написание и поддержка технической документации.
 
